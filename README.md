@@ -1,9 +1,11 @@
-#NOISE SUPPRESSION FOR WINDOWS !!
+# NOISE SUPPRESSION FOR WINDOWS !!
 
 ## Voice meter setup:
 
 Import setting from *Voice_bannanna_settings.xml*
-:or
+
+OR
+
 Go to system settings and in Patch Insert section enable:
   - in 1 Left
   - in 1 Right
