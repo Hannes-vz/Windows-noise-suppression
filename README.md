@@ -31,6 +31,7 @@ In Preferences:
 	
 	
 Aditional vst plugin in vst plugins folder
+
 	
 	
 	
