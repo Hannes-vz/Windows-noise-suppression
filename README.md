@@ -10,7 +10,7 @@ Go to system settings and in Patch Insert section enable:
   - in 1 Left
   - in 1 Right
 
-## Light host setup:
+## Light host setup
 
 In Preferences:
 	- Set Audio device type to ASIO
@@ -18,9 +18,14 @@ In Preferences:
 
 
 ## Plugin settings
+
+### rnnoise-Sterio
 	- Use the stereo version 
 	- VAD Threshold = .9
 	- VAD Grace (BOTH) = 0
+	
+### Noisegate-standalone
+	-
 	
 	
 	
