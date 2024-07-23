@@ -2,7 +2,7 @@
 
 ## Voice meter setup:
 
-Import setting from ........
+Import setting from *Voice_bannanna_settings.xml*
 :or
 Go to system settings and in Patch Insert section enable:
   - in 1 Left
