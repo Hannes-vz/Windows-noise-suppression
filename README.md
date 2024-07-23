@@ -25,11 +25,12 @@ In Preferences:
 	- VAD Grace (BOTH) = 0
 	
 ### Noisegate-standalone
-	-
+![Noisegate-standalone config](https://github.com/Hannes-vz/Windows-noise-suppression/blob/master/Pictures/reagate-standalone.png "")
 	
 	
 	
 Aditional vst plugin in vst plugins folder
+
 	
 	
 	
