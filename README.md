@@ -25,8 +25,7 @@ In Preferences:
 	- VAD Grace (BOTH) = 0
 	
 ### Noisegate-standalone
-![Noisegate-standalone config](https://github.com/Hannes-vz/Windows-noise-suppression/blob/main/Pictures/reagate-standalone.png "")
-
+![Noisegate-standalone config](https://github.com/Hannes-vz/Windows-noise-suppression/blob/master/Pictures/reagate-standalone.png "")
 	
 	
 	
